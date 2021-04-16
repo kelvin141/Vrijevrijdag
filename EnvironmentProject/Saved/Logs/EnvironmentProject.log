@@ -1087,3 +1087,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.16-08.39.04:702][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.04.16-08.39.05:951][  1]LogAssetRegistry: Asset discovery search completed in 104.3942 seconds
 [2021.04.16-08.39.05:980][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000020 seconds (updated 0 objects)
+[2021.04.16-09.17.11:246][304]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.16-09.17.11:281][304]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.16-09.17.33:953][654]LogContentBrowser: Attempting asset rename: NewFolder -> multiplayer
+[2021.04.16-09.17.33:953][654]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.16-09.19.28:137][952]LogContentBrowser: Attempting asset rename: multiplayer -> VrijevrijdagProject
+[2021.04.16-09.19.31:819][144]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.16-09.19.31:828][144]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.16-09.19.46:050][994]LogContentBrowser: Attempting asset rename: NewFolder -> BP_Blueprints
+[2021.04.16-09.19.46:050][994]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.16-09.20.14:769][704]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.16-09.20.14:778][704]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.16-09.21.22:407][759]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2021.04.16-09.21.22:407][759]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.16-09.21.30:012][183]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.16-09.21.30:022][183]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.16-09.21.40:412][803]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2021.04.16-09.21.40:412][803]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.16-09.21.45:468][ 64]LogSlate: Took 0.012899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.16-09.22.03:424][ 64]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.16-09.22.03:795][ 64]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.04.16-09.22.03:802][ 64]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.04.16-09.22.16:311][812]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_example
+[2021.04.16-09.22.16:716][812]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.04.16-09.22.24:712][283]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.04.16-09.22.24:721][283]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.04.16-09.22.32:691][762]LogContentBrowser: Attempting asset rename: NewMaterial -> M_material
+[2021.04.16-09.22.32:692][762]LogContentBrowser: End creating deferred item NewMaterial
+[2021.04.16-09.22.37:301][ 30]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.04.16-09.22.37:311][ 30]LogContentBrowser: Creating deferred item: NewWorld
+[2021.04.16-09.23.00:958][447]LogContentBrowser: Attempting asset rename: NewWorld -> Example_level
+[2021.04.16-09.23.01:409][447]LogContentBrowser: End creating deferred item NewWorld
+[2021.04.16-09.23.11:734][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.04.16-09.23.11:795][805]LogSavePackage: Moving 'D:/XR Lab/Vrijevrijdagproject/Vrijevrijdag/EnvironmentProject/Saved/StartupMap9183267448ABC4E1D58DF681B30B35DD.tmp' to 'D:/XR Lab/Vrijevrijdagproject/Vrijevrijdag/EnvironmentProject/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.04.16-09.23.11:885][805]LogSavePackage: Moving 'D:/XR Lab/Vrijevrijdagproject/Vrijevrijdag/EnvironmentProject/Saved/StartupMap_BuiltData124A6043476A1AAFEF35F8BA35D601E2.tmp' to 'D:/XR Lab/Vrijevrijdagproject/Vrijevrijdag/EnvironmentProject/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2021.04.16-09.23.11:934][805]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.16-09.23.11:934][805]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/StartupMap_BuiltData.StartupMap_BuiltData
+[2021.04.16-09.23.11:934][805]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.04.16-09.23.14:988][973]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2021.04.16-09.23.16:598][  6]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
