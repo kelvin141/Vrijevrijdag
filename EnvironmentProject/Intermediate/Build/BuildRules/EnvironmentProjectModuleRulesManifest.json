@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"D:\\XRlab\\vrijevrijdagproject\\Vrijevrijdag\\EnvironmentProject\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\XRlab\\vrijevrijdagproject\\Vrijevrijdag\\EnvironmentProject\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
